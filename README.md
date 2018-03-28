@@ -29,6 +29,5 @@ Player一般都会有Listener,需要传本身或子类进去，无法完全解�
 
 ## 类图
 ![class_image](https://github.com/SilentHiKing/TextureVideoPlayer/blob/master/doc/VideoPlayer%E7%B1%BB%E5%9B%BE.png)
-<br>
-</br>
+
 ![order_image](https://github.com/SilentHiKing/TextureVideoPlayer/blob/master/doc/VideoPlayer%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
