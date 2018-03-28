@@ -1,4 +1,4 @@
-# TextureVideoPlayer
+# TextureVideoPlayer(非原创)
 使用TextureView显示Player数据
 
 https://www.jianshu.com/p/420f7b14d6f6
