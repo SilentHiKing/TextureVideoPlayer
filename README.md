@@ -1,0 +1,2 @@
+# TextureVideoPlayer
+videoplayer with  textureview
